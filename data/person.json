@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "lori",
+                    "last": "lynch"
+                },
+                "location": {
+                    "street": "3294 ash dr",
+                    "city": "great falls",
+                    "state": "wisconsin",
+                    "zip": 36531
+                },
+                "email": "lori.lynch@example.com",
+                "username": "tinyostrich609",
+                "password": "volcano",
+                "salt": "CxGuJfmO",
+                "md5": "1be5a83aaa33b14cfe3bc2dc4a97da45",
+                "sha1": "8295821c53683e0f921ee6c064cd9d39eeee5e41",
+                "sha256": "5180ee48a1391842ec7c8b2cc9104cee27b21193522bffa34e142a8b3854da56",
+                "registered": 1122720323,
+                "dob": 406108900,
+                "phone": "(054)-323-0385",
+                "cell": "(844)-314-2639",
+                "SSN": "798-49-0101",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "US",
+    "seed": "b4da909ea0fe862c07",
+    "version": "0.7"
+}
